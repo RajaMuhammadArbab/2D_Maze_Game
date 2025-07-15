@@ -1,0 +1,9 @@
+# Libraries Used
+
+1. pygame
+   - Description: A cross-platform set of Python modules designed for writing video games.
+   - Features used:
+     - Rendering graphics (maze, player, goal)
+     - Capturing keyboard input
+     - Playing sound effects and background music
+     - Managing the game loop and frame rate
