@@ -56,10 +56,4 @@ python maze_game.py
 
 See `library_list.txt` for detailed information.
 
-##  Recording 
 
-If included, the `/output/` folder contains:
-- `gameplay_recording.mp4`: a video of game playthrough
-
-
-Enjoy solving the maze!
